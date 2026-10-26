@@ -100,8 +100,5 @@ Se você procura alguém com experiência prévia em desenvolvimento de software
 
 ---
 
-![Snake animation](https://github.com/nynaromanoff/nynaromanoff/blob/output/github-contribution-grid-snake.svg)
-
-
 *Obrigada por visitar meu perfil!*
 
