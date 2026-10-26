@@ -92,8 +92,10 @@ Por isso, continuo estudando arquitetura de software, boas práticas de desenvol
 Estou aberta a oportunidades de recolocação profissional como Desenvolvedora Full Stack.
 
 Se você procura alguém com experiência prévia em desenvolvimento de software, interesse em resolver problemas reais e disposição para continuar evoluindo tecnicamente, será um prazer conversar!
+<div>
+  <a href="https://www.linkedin.com/in/jessica-dos-santos-9b863a12a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- 💼 **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/jessica-dos-santos-9b863a12a/)
 - 🐙 **GitHub:** [Meus repositórios](https://github.com/nynaromanoff)
 
 ---
